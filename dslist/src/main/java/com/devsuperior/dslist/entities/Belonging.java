@@ -22,6 +22,11 @@ public class Belonging {
 
     private Integer position;
     
+    /**
+     * @param game
+     * @param list
+     * @param position
+     */
     public Belonging(Game game, GameList list, Integer position) {
         this.id.setGame(game);
         this.id.setList(list);
