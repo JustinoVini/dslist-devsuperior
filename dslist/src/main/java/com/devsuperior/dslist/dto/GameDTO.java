@@ -1,7 +1,5 @@
 package com.devsuperior.dslist.dto;
 
-import javax.swing.text.html.parser.Entity;
-
 import org.springframework.beans.BeanUtils;
 
 import com.devsuperior.dslist.entities.Game;
